@@ -26,6 +26,8 @@
 		069A64322276AB9100C0820D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		069A64342276AB9100C0820D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		069A64352276AB9100C0820D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		069A643C2276AD0600C0820D /* Location.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Location.gpx; sourceTree = "<group>"; };
+		069A643D2276AD5A00C0820D /* Location.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = Location.gpx; path = Dingcheat/Location.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		069A641A2276AB9000C0820D = {
 			isa = PBXGroup;
 			children = (
+				069A643D2276AD5A00C0820D /* Location.gpx */,
 				069A64252276AB9000C0820D /* Dingcheat */,
 				069A64242276AB9000C0820D /* Products */,
 			);
@@ -67,6 +70,7 @@
 				069A64312276AB9100C0820D /* LaunchScreen.storyboard */,
 				069A64342276AB9100C0820D /* Info.plist */,
 				069A64352276AB9100C0820D /* main.m */,
+				069A643C2276AD0600C0820D /* Location.gpx */,
 			);
 			path = Dingcheat;
 			sourceTree = "<group>";
